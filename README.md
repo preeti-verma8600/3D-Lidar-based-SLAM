@@ -5,8 +5,8 @@ The ***Pomona 3D Graph Slam online environment mapping*** project aims to genera
 [![Build](https://github.com/koide3/hdl_graph_slam/actions/workflows/build.yml/badge.svg)](https://github.com/koide3/hdl_graph_slam/actions/workflows/build.yml) on melodic & noetic
 
 # Project Members
-Preeti Verma
-Huy (Eric) Nguyen
+1. Preeti Verma
+2. Huy (Eric) Nguyen
 
 ## Implementation
 # Offline environment
